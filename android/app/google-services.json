@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363266365725",
+    "project_id": "shoes-appdata",
+    "storage_bucket": "shoes-appdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363266365725:android:aa91141951f2e4127c29f4",
+        "android_client_info": {
+          "package_name": "com.Nunijoshua.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBICuQZ174jv3N-N5W38KFR_dwttQzyOoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
